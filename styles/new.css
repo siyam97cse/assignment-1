@@ -1,0 +1,71 @@
+.header{
+    background-image: url('../image/Banner\ Image.png');
+    width: 1320px;
+height: 600px;
+/* flex-shrink: 0; */
+margin: auto;
+border-radius: 16px;
+background: linear-gradient #070211 0%, rgba(7, 2, 17, 0.00) 100%;
+}
+.banner-text{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.banner-title{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+
+}
+.sec-11{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sec-12{
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+}
+
+.sec-13{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sec-14{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0; 
+    padding: 230px 400px 6000px 400px;
+}
+.sec-2nd{
+    
+}
