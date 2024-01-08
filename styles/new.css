@@ -60,12 +60,14 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
-.sec-14{
+.sec-14 {
+   margin-left: 1150px;
     width: 802.9px;
     height: 500px;
-    flex-shrink: 0; 
-    padding: 230px 400px 6000px 400px;
-}
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
 .sec-2nd{
     
 }
